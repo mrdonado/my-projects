@@ -12,9 +12,9 @@ Hello dear visitor, welcome to the `my-projects` repository. Here you'll find a 
 
 [JDonado's README](https://blog.jdonado.com/): my blog, where I mostly talk about software.
 
-[Cassette Coach](http://ccoach.jdonado.com/): a game designed to help you learn the basics about music harmony.
-
 [screen-management](https://www.npmjs.com/package/screen-management): an NPM module for turning your computer screen off and on again, that works on Windows 10 and Linux.
+
+[Cassette Coach](http://ccoach.jdonado.com/): a game designed to help you learn the basics about music harmony. This is an old experiment, where I had some background in Java and I wanted to learn more about javascript, css and PHP. I find it rather cringy now, I must admit, but I learnt a lot while doing it :)
 
 [Note Tester](http://fjrd84.github.io/noteTester/): a responsive piano keyboard and musical score as HTML + JS+jQuery Component.
 
