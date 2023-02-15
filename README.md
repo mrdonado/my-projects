@@ -6,7 +6,7 @@ Hello dear visitor, welcome to the `my-projects` repository. Here you'll find a 
 
 [Speaky MiniPlayer](https://github.com/mrdonado/speaky-miniplayer/blob/master/README.md): A robotic mini player for Spotify, [available for Windows, Linux and MacOSX](https://github.com/mrdonado/speaky-miniplayer/releases). A minimalist music controller for Spotify that has an integrated robotic radio speaker. This robotic speaker provides information about the music you're currently listening to (such as title, artist, album...) by using a synthetic voice.
 
-Lifescope: an Artificial Intelligence software that finds solutions to healthcare problems. You can find the details about what it does and how it works on [Lifescope Project - blog.jdonado.com](https://blog.jdonado.com/lifescope-project/)
+Lifescope: an AI software that finds solutions to healthcare problems. You can find the details about what it does and how it works on [Lifescope Project - blog.jdonado.com](https://blog.jdonado.com/lifescope-project/)
 
 [My personal web (jdonado.com)](https://www.jdonado.com/): with information about how I write software, an overview of my blog's contents, some of [my pictures](https://www.flickr.com/photos/79693661@N05/albums) and some of my [music tracks](https://fractalfields.bandcamp.com/). Although I wrote it in 2016, and I used tools back then that I wouldn't use today (Angular.js, for instance), I guess that it still serves its purpose 😄.
 
